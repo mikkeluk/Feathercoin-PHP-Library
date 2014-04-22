@@ -27,7 +27,8 @@ Credits
 
 feathercoin-php based on nearly like for like:
 
-[bitcoin-php by Mike Gogulski]: https://github.com/mikegogulski/bitcoin-php
+* [Mike Gogulski](Bitcoin-php) -
+  <https://github.com/mikegogulski/bitcoin-php>
 
 feathercoin-php incorporates code from:
 
